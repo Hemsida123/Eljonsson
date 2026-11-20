@@ -1,0 +1,13 @@
+ELJONSSON – FÄRDIGA WEBBFILER
+
+Ladda upp hela innehållet i denna mapp till GitHub Pages eller webbhotellets public_html. Behåll filnamn och assets-mappen. Inget byggsteg behövs.
+
+Kontakt: Thomas 070 642 82 62, Gustaf 070 642 82 60, administration Maria 072 227 23 23, info@eljonsson.se. Mejlfunktionen öppnar besökarens mejlprogram och skickar inte automatiskt.
+
+Före publicering på kundens domän: byt https://eljonsson-design.carlzzon121.chatgpt.site till den slutliga domänen i alla HTML-filer, sitemap.xml och robots.txt. Vid ersättning av den nuvarande WordPress-webbplatsen bör gamla adresser som /vara-tjanster/ omdirigeras till motsvarande nya HTML-sida. Behåll då gamla adresser med permanenta omdirigeringar i webbhotellet. Kontrollera även företagets personuppgiftspolicy innan skarp lansering.
+
+Bilder och logotyp är hämtade från eljonsson.se. Belysningsbilden är en illustrationsbild av Behnam Norouzi, Unsplash: https://unsplash.com/photos/I9ALtU8FGLY. Den är inte märkt som ett utfört kundprojekt. Bildkällor och textunderlag kontrollerade 2026-11-20.
+
+Inga kundomdömen eller betyg har hittats med tillräckligt aktuell verifiering för publicering. Därför finns inget påhittat betyg i designen.
+
+Inga externa analysverktyg. Lokala bilder och typsnitt. 10 innehållssidor samt 404-sida.
